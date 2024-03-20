@@ -34,6 +34,6 @@ components:
     type: Label
     layout_properties: {grid_position: 'XPNTAU,TGMHMU'}
 - type: FlowPanel
-  properties: {}
+  properties: {visible: true}
   name: navbar_links
   layout_properties: {slot: nav-right}
